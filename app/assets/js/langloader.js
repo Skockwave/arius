@@ -36,7 +36,7 @@ exports.setupLanguage = function(){
     // Load Language Files
     exports.loadLanguage('ko_KR')
     // Uncomment this when translations are ready
-    exports.loadLanguage('ja_JP')
+    // exports.loadLanguage('ja_JP')
 
     // Load Custom Language File for Launcher Customizer
     exports.loadLanguage('_custom')
