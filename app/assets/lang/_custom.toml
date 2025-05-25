@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "arius"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/Skockwave/arius"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/9Ue4zh46tr"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/Skockwave/arius"
+supportLink = "https://github.com/Skockwave/arius/issues"
+
+[ejs.welcome]
+welcomeHeader = "WELCOME TO arius"
+welcomeDescription = "해당 런처는 '아이곰(discord: babybear7)'에 의해 제작되었습니다."
+welcomeDescCTA = "몇번만 더 클릭하시면 됩니다!"
